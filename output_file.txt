@@ -1,0 +1,30 @@
+Pressed: A
+Pressed: S
+Pressed: Backspace
+Pressed: Backspace
+Pressed: A
+Pressed: N
+Pressed: I
+Pressed: O
+Pressed: Space
+Pressed: 4
+Pressed: 3
+Pressed: Space
+Pressed: Tab
+Pressed: Space
+Pressed: Back Quote
+Pressed: Space
+Pressed: Enter
+Pressed: Enter
+Pressed: NumPad 5
+Pressed: NumPad 6
+Pressed: NumPad 8
+Pressed: Enter
+Pressed: Enter
+Pressed: Up
+Pressed: Down
+Pressed: Left
+Pressed: Right
+Pressed: Right
+Pressed: Caps Lock
+Pressed: Caps Lock
